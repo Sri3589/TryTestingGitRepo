@@ -1,5 +1,7 @@
 class ClassMethods
 {
+	System.out.println("LetsTestGit!!!");
+	System.out.println("Are You Sure?");
 	void meth1()
 	{
      	    System.out.println("Method1");
